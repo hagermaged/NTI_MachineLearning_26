@@ -1,0 +1,13 @@
+# Ames Housing — Price Prediction
+# Python 3.12 (tested on 3.12.3)
+# Install with:  pip install -r requirements.txt
+
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.5.0
+jupyter==1.0.0
+notebook==7.2.1
+ipykernel==6.29.4
